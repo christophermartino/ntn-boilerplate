@@ -2,5 +2,5 @@
   "title": "Drawings",
   "date": "2020-09-08T06:00:00.000Z",
   "description": "Some drawings.",
-  "body": "## Put Images here.\n<p style=\"text-align:center;\"><img src=\"https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_400/v1581633478/darkfolio/41.webp\" />\n</p>\n<p style=\"text-align:center;\">Swamp Thing, oil and acrylic on canvas, 22 x 30 in., 2019</p>"
+  "body": "<p style=\"text-align:center;\"><img src=\"https://res.cloudinary.com/df2ebjhsp/image/upload/c_scale,w_400/v1581633478/darkfolio/41.webp\" />\n</p>\n<p style=\"text-align:center;\">Swamp Thing, oil and acrylic on canvas, 22 x 30 in., 2019</p>"
 }
